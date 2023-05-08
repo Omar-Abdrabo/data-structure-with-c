@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606192918 source:e:\omar\programing\data structrue with c\queue linked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1606193144 e:\omar\programing\data structrue with c\queue linked\queue.h
+	<stdlib.h>
+
+1606192919 source:e:\omar\programing\data structrue with c\queue linked\queue.c
+	"queue.h"
+

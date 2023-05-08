@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606317723 source:e:\omar\programing\data structrue with c\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1606263214 source:e:\omar\programing\data structrue with c\list\list.c
+	"List.h"
+
+1606265439 e:\omar\programing\data structrue with c\list\list.h
+

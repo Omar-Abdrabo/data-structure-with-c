@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606139482 source:e:\omar\programing\data structrue with c\stacklinkedbased\stack.c
+	"Stack.h"
+
+1606139482 e:\omar\programing\data structrue with c\stacklinkedbased\stack.h
+	<stdlib.h>
+
+1606139509 source:e:\omar\programing\data structrue with c\stacklinkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+

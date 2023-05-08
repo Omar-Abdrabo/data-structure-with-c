@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:e:\omar\programing\data structrue with c\stackwithoutstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605658585 source:e:\omar\programing\data structrue with c\stackwithoutstruct\stack2.c
+	"Stack2.h"
+
+1605658560 e:\omar\programing\data structrue with c\stackwithoutstruct\stack2.h
+

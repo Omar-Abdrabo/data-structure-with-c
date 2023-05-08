@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608205105 source:e:\omar\programing\data structrue with c\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1608205105 source:e:\omar\programing\data structrue with c\tree\tree.c
+	"Tree.h"
+	<stdlib.h>
+
+1608204775 e:\omar\programing\data structrue with c\tree\tree.h
+
